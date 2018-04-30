@@ -1,4 +1,4 @@
-# webpack
+# webpack-simple
 
 > A simple Vue 2.0 + Vuetify + Webpack & `vue-loader` setup for quick prototyping. Note this template is not suitable for production - for that you may want to wait for an official 2.0 webpack template.
 
@@ -8,7 +8,7 @@ This is a project template for [vue-cli](https://github.com/vuejs/vue-cli).
 
 ``` bash
 $ npm install -g vue-cli
-$ vue init vuetifyjs/webpack my-project
+$ vue init vuetifyjs/webpack-simple my-project
 $ cd my-project
 $ npm install
 $ npm run dev
